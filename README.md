@@ -1,7 +1,7 @@
 # ODE-to-Coffee
 PHYS 451 project
 
-ODE to Coffee videos
+#ODE to Coffee videos
 
 [Viedo example of process 1.0](https://youtu.be/_GIpO3qJrhY)
 
