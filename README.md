@@ -42,8 +42,7 @@ ODE to Coffee videos
 
 ## Link to Code (S/M Methods)
 
-[ODE to Coffee __.pdf](https://github.com/benwesedwards/ODE-to-Coffee/files/6432416/ODE.to.Coffee.__.pdf)
-
+[Code]https://github.com/alb1717f/ODE-to-Coffee/blob/main/ODE_to_Coffee.ipynb
 
 ## Results
 
