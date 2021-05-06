@@ -42,7 +42,6 @@ ODE to Coffee videos
 
 ## Link to Code (S/M Methods)
 
-[Code]https://github.com/alb1717f/ODE-to-Coffee/blob/main/ODE_to_Coffee.ipynb
 
 ## Results
 
