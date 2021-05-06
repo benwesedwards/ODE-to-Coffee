@@ -1,6 +1,19 @@
 # ODE-to-Coffee
 PHYS 451 project
 
+
+
+## Purpose
+  Abstract
+  
+## Background
+
+  Notes about process, ie how we are taking data
+
+  How each thing should effect the other, what will make the project complicated, how will we simplify
+  
+## Data Videos
+
 ODE to Coffee videos
 
 [Viedo example of process 1.0](https://youtu.be/_GIpO3qJrhY)
@@ -17,19 +30,9 @@ ODE to Coffee videos
 
 [Viedo of Data Collection Part 5](https://youtu.be/dfNVocLaNUU)
 
-## Purpose
-  Abstract
-  
-## Background
-
-  Notes about process, ie how we are taking data
-
-  How each thing should effect the other, what will make the project complicated, how will we simplify
-  
-## Data Videos
-
 ## Data Tables
-
+[DATA Set 3](https://drive.google.com/drive/u/0/folders/17whV1W0V4K91N9UdPQs2wVmuKqg7WA3y)
+[DATA Set 4](https://drive.google.com/drive/u/0/folders/17whV1W0V4K91N9UdPQs2wVmuKqg7WA3y)
 
 ## Link to Code (S/M Methods)
 
